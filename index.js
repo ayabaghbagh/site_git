@@ -1,1 +1,1 @@
-alert('hello git')
+alert('hello git in new modi')

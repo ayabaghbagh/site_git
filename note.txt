@@ -1,1 +1,1 @@
-je fait une teste est ce que le finchiers note.txt est uploed sur github ou non
+je fait une teste est-ce-que le finchiers note.txt est ajoute(push) sur github ou non

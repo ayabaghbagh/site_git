@@ -1,2 +1,6 @@
 nouveau fichier pou nouveau branche
+<<<<<<< HEAD
 de task2
+=======
+how to pull edits from github
+>>>>>>> master
